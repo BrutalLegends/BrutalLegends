@@ -9,4 +9,4 @@ BrutalLegends/BrutalLegends is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-I am Manish Mahimkar living in Kalyan. Studying Degree 2nd Year in Computer Engineering.
+I am Manish Mahimkar living in Kalyan. I am studying for my 3rd year in Computer Engineering.
